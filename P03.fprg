@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <flowgorithm fileversion="3.0">
-    <attributes> 
+    <attributes>  
         <attribute name="name" value=""/>
         <attribute name="authors" value="Tiffani Rumiris"/>
         <attribute name="about" value=""/>
